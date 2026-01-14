@@ -82,3 +82,7 @@ python -m app.visualization.plot_stock
 python -m app.visualization.plot_top_movers~
 
 ```
+
+# Demo Video
+
+https://drive.google.com/file/d/15LH_PnaRjZh0d1aBFknO1-FvzKdkbO02/view?usp=sharing

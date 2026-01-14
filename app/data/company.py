@@ -1,0 +1,8 @@
+def get_companies_stocks():
+    return {
+        "AAPL": "Apple Inc.",
+        "MSFT": "Microsoft Corporation",
+        "GOOGL": "Alphabet Inc.",
+        "AMZN": "Amazon.com, Inc.",
+        "TSLA": "Tesla, Inc."
+    }

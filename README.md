@@ -66,7 +66,7 @@ uvicorn app.main:app --reload
 
 http://127.0.0.1:8000/docs
 
-# Visualization (Optional)
+# Visualization 
 
 -----A simple visualization is implemented using Matplotlib to: ------
 
